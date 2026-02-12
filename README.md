@@ -10,7 +10,7 @@
 
 * 📍 Based in **Tanta, Egypt**
 * 📧 [omar.yahya.awad@gmail.com](mailto:omar.yahya.awad@gmail.com)
-* 🔗 [LinkedIn](www.linkedin.com/in/omar-y-awad)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/omar-y-awad)
 
 <br>
 
