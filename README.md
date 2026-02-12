@@ -8,7 +8,7 @@
 
 <br>
 
-* 📍 Based in **Tanta, Egypt**
+* 📍 Based in **Egypt**
 * 📧 [omar.yahya.awad@gmail.com](mailto:omar.yahya.awad@gmail.com)
 
 <br>
