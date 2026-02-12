@@ -8,7 +8,7 @@ Turning raw data into production-ready insights. <br>
 Based in <b>Tanta, Egypt</b>.
 </p>
 
-[Email](mailto:omar.yahya.awad@gmail.com) • [LinkedIn](#) • [Portfolio](#)
+[Email](mailto:omar.yahya.awad@gmail.com) • [LinkedIn](www.linkedin.com/in/omar-y-awad) • [Portfolio](#)
 
 ---
 
