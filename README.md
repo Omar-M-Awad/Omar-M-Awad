@@ -6,7 +6,7 @@
 > "Data doesn't lie. I make it speak."  
 > **Architecting Data. Engineering Intelligence.**
 
----
+
 
 * 📍 Based in **Tanta, Egypt**
 * 📧 [omar.yahya.awad@gmail.com](mailto:omar.yahya.awad@gmail.com)
