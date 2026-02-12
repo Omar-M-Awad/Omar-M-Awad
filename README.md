@@ -1,4 +1,4 @@
-<img src="./logo.svg" align="right" width="100" height="100" />
+<img src="./logo.svg" align="right" width="80" height="80" />
 
 # Omar M. Awad
 ### Analytics Engineer
