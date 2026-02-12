@@ -1,0 +1,35 @@
+<svg width="512" height="512" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blueMetal" x1="100" y1="0" x2="100" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7AA1D2" /> <stop offset="100%" stop-color="#1E3C72" /> </linearGradient>
+    <radialGradient id="coreGlow" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+      <stop offset="0%" stop-color="#FFF5E1" />
+      <stop offset="40%" stop-color="#F9B233" />
+      <stop offset="100%" stop-color="#D97706" />
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <mask id="topCut">
+      <rect x="0" y="0" width="200" height="200" fill="white" />
+      <rect x="92" y="0" width="16" height="90" fill="black" />
+    </mask>
+  </defs>
+  <g mask="url(#topCut)">
+    <circle cx="100" cy="100" r="82" stroke="url(#blueMetal)" stroke-width="16" fill="none" />
+    <circle cx="100" cy="100" r="54" stroke="url(#blueMetal)" stroke-width="12" fill="none" />
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="100" cy="100" r="14" fill="url(#coreGlow)" />
+    <line x1="100" y1="114" x2="100" y2="148" stroke="#F9B233" stroke-width="2.5" />
+    <circle cx="100" cy="148" r="3.5" fill="#F9B233" />
+    <path d="M 114 100 L 148 100" stroke="#F9B233" stroke-width="2.5" />
+    <circle cx="148" cy="100" r="3.5" fill="#F9B233" />
+    <path d="M 62 65 Q 55 100 100 125" stroke="#F9B233" stroke-width="2.5" fill="none" />
+    <circle cx="62" cy="65" r="3.5" fill="#F9B233" />
+  </g>
+</svg>

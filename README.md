@@ -1,34 +1,25 @@
-<div align="center">
+<img src="./logo.svg" align="right" width="150" height="150" />
 
 # Omar M. Awad
 ### Analytics Engineer
 
-<p>
-Turning raw data into production-ready insights. <br>
-Based in <b>Tanta, Egypt</b>.
-</p>
-
-[Email](mailto:omar.yahya.awad@gmail.com) • [LinkedIn](www.linkedin.com/in/omar-y-awad) • [Portfolio](#)
+> "Data doesn't lie. I make it speak."  
+> **Architecting Data. Engineering Intelligence.**
 
 ---
 
-</div>
+* 📍 Based in **Tanta, Egypt**
+* 📧 [omar.yahya.awad@gmail.com](mailto:omar.yahya.awad@gmail.com)
+* 🔗 [LinkedIn](www.linkedin.com/in/omar-y-awad)
 
-### 🛠 Core Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-Pipeline-black?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+---
 
-### 🏗 Featured Architecture
-**Automated Crypto Analytics Pipeline** End-to-end engineering project: Ingesting real-time API data, processing with Python, and serving insights via Power BI.
-
-![System Architecture](./crypto-pipeline.jpg)
+### 🛠️ Philosophy & Stack
+I build scalable data architectures and transform raw information into strategic intelligence.  
+**Python** | **SQL** | **dbt** | **Data Modeling** | **Power BI**
 
 <br>
 
-<div align="center">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Omar-M-Awad&show_icons=true&theme=graywhite&hide_border=true" height="130" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-M-Awad&show_icons=true&theme=transparent&hide_border=true&title_color=fbbf24&text_color=999&icon_color=fbbf24" height="150" alt="GitHub Stats" />
 </p>
-</div>
