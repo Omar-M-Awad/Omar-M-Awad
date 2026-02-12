@@ -4,8 +4,7 @@
 ### Analytics Engineer
 
 > "Data doesn't lie. I make it speak."
-> **Architecting Data.**
-**Engineering Intelligence.**
+> **Architecting Data. Engineering Intelligence.**
 
 <br>
 
