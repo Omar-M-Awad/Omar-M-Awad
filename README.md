@@ -8,7 +8,6 @@
 
 <br>
 
-* 📍 Based in **Egypt**
 
 <br>
 
