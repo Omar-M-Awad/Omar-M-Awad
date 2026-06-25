@@ -8,7 +8,6 @@
 
 <br>
 
-
 <br>
 
 ### 🛠️ Tech Stack & Philosophy
